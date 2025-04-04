@@ -1,0 +1,9 @@
+2025-04-04 12:19:27.790186 - Received CBT.V508.FILE593.PDS from FILE593.XMI 
+2025-04-04 12:19:27.790988 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:19:27.791145 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/$PDSLOAD
+2025-04-04 12:19:27.791288 - Found @FILE593.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/@FILE593
+2025-04-04 12:19:27.791528 - Found ASMG27A.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/ASMG27A
+2025-04-04 12:19:27.791683 - Found INSTJCL.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/INSTJCL
+2025-04-04 12:19:27.791804 - Found LKEDIN.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/LKEDIN
+2025-04-04 12:19:27.792022 - Found MACLIB.bin (application/octet-stream) in CBT.V508.FILE593.PDS, moved to PDS/MACLIB
+2025-04-04 12:19:27.792691 - Found SOURCE.txt (text/plain) in CBT.V508.FILE593.PDS, moved to PDS/SOURCE
